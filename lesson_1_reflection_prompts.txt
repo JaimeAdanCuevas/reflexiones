@@ -1,0 +1,37 @@
+
+¿Cómo fue la visualización de un diff entre dos versiones de un archivo de ayuda que vea el error que
+¿Fue presentado?
+
+    Se requiere mucho menor esfuerzo visual, ademas es muy intuitivo localizar una error en la linea de comandos fc y poder encontrar el error.
+
+¿Cómo podría tener fácil acceso a toda la historia de un archivo que hacer un mayor
+programador eficiente en el largo plazo?
+
+    Con el control de versiones podemos localizar los cambios que se han hecho en el documento, y facilitar la compresion de dicho asiendo mas facil la tarea del programador
+
+¿Qué cree usted que son los pros y los contras de elegir manualmente cuándo crear una
+comprometerse, como se hace en Git, frente a tener versiones guardan automáticamente, como Google
+docs hace?
+
+    Que puede ser que aveces guardemos cambios que no tiene tanto senitdo guradarlos lo cual hace muchisimo muy grande nuestro control de versiones y tedioso de encontrar las fallas.
+
+¿Por qué cree que algunos sistemas de control de versiones, como Git, permiten guardar múltiples
+archivos en un solo comprometen, mientras que otros, como Google Docs, tratan a cada archivo por separado?
+
+    Por que el funcionamiento en una archivo html por ejemplo puede tener un archivo css el cual usted agrega un boton y necesita hacer cambios en css, por lo cual los cambios afectan el funcionamiento de el archivo html, y en google docs es muy probable que lo que esta modificando en esa archivo no afecte al otro archivo asi que por eso los trata por separado.
+
+¿Cómo se puede utilizar el registro de comandos git y git diff para ver el historial de archivos?
+
+    Los comandos vistos en esta seccion fueron git log y git diff, el primero me muestra una serie de confirmaciones con fecha,hora y usuario el cual a modificado los archivos, y el git diff, compara dos archivos con su numero de id,(confirmacion) y me muestra el codigo aderido y el borrado.
+
+¿Cómo podría usar el control de versiones hará más seguro para hacer cambios que
+podría romper algo?
+
+    Con git podemos identificar el error facilmente ya que compara dos versiones de archivos y muestra lo que se a borrado y anadido y con el comando checkout podemos utilizar esa parte del codigo creado para ejecutarlo con ese codigo.
+
+Ahora que ha configurado el espacio de trabajo, ¿qué es lo que quieres intentar usar Git para?
+
+    Es muy interesante manipular los archivos con un control de versiones, hace que los proyectos sean en mayor cantidad muy eficientes y fiables, ademas de que ahorro grandes cantidades de tiempo y esfuerzo , y tengo la seguridad de que no hare tronar el proyecto gracias al las copias de seguridad a alas cuales puedo volver cuando lo necesite.
+
+
+    los tres comandos mas importantes son git checkout, git log, git diff -u, diff -u
