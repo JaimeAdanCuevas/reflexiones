@@ -1,0 +1,22 @@
+¿Qué pasa cuando se inicializa un repositorio? ¿Por qué necesita para hacerlo?
+
+podemos tener los servicios del sistema de control de versiones, y asi hacer su revision y acometer commits cuando lo necesitemos para las buenas practicas.
+
+¿Cómo es el área de ensayo diferente del directorio de trabajo y el repositorio?
+¿Qué valor crees que se ofrece?
+
+bueno pues ahora e agregado un archivo a el valor de ensayo por lo cual podemos hacer uso del control de versiones y poder manipular los commits.
+
+¿Cómo puede usar el área de ensayo para asegurarse de que tiene uno por cometer lógica
+¿cambio?
+
+¿Cuáles son algunas situaciones en las ramas serían útiles para mantener su historial
+¿organizado? ¿Cómo ayudar a las ramas?
+
+¿Cómo los diagramas ayudan a visualizar la estructura de las ramas?
+
+¿Cuál es el resultado de la fusión de dos ramas juntos? ¿Por qué lo representamos en
+el diagrama de la forma en que hacemos?
+
+¿Cuáles son los pros y los contras de frente a la combinación automática de Git siempre haciendo fusiones
+¿a mano?
