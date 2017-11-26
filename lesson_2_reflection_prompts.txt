@@ -5,6 +5,8 @@ podemos tener los servicios del sistema de control de versiones, y asi hacer su 
 ¿Cómo es el área de ensayo diferente del directorio de trabajo y el repositorio?
 ¿Qué valor crees que se ofrece?
 
+el area de trabajo es un cambio no guardado pero ahun asi podemos ver los cambios hechos en el archivo con git diff, en el area de ensayo hemos ingresado el archivo en el proceso de guardado y se pueden vizualizar sus cambios ahun con git diff --staged, y en el repositorio es donde le hemos dado un commit para que otros usuarios puedan tener acceso a el y poderlo utilizar como backup.
+
 bueno pues ahora e agregado un archivo a el valor de ensayo por lo cual podemos hacer uso del control de versiones y poder manipular los commits.
 
 ¿Cómo puede usar el área de ensayo para asegurarse de que tiene uno por cometer lógica
