@@ -12,10 +12,16 @@ bueno pues ahora e agregado un archivo a el valor de ensayo por lo cual podemos 
 ¿Cómo puede usar el área de ensayo para asegurarse de que tiene uno por cometer lógica
 ¿cambio?
 
+podemos utilizar el comando git diff y podemos vizualizar los cambios logicos en el archivo.
+
 ¿Cuáles son algunas situaciones en las ramas serían útiles para mantener su historial
 ¿organizado? ¿Cómo ayudar a las ramas?
 
+una situacion en la que seria necerario el uso de los branch es la de plantarse una situacion que no valla con el contexto de los commits creados con anterioridad para un archivo y se requiere apartar el archivo siguiente de ellos, entonces es ahi cuando entra la ramificacion, nos permite tener una mejor organizacion del control de versiones y tener nuestro repositorio eficiente.
+
 ¿Cómo los diagramas ayudan a visualizar la estructura de las ramas?
+
+Los diagramas son de gran ayuda ya que en ellos podemos vizualizar los cambios hechos en el repositorio de nuestro archivo, como tambien poder compreder donde se encuentran ubicadas algunas ramas que no son visibles linealmente con nuestro git log.
 
 ¿Cuál es el resultado de la fusión de dos ramas juntos? ¿Por qué lo representamos en
 el diagrama de la forma en que hacemos?
