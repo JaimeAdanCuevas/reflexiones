@@ -21,10 +21,14 @@ una situacion en la que seria necerario el uso de los branch es la de plantarse 
 
 ¿Cómo los diagramas ayudan a visualizar la estructura de las ramas?
 
-Los diagramas son de gran ayuda ya que en ellos podemos vizualizar los cambios hechos en el repositorio de nuestro archivo, como tambien poder compreder donde se encuentran ubicadas algunas ramas que no son visibles linealmente con nuestro git log.s
+Los diagramas son de gran ayuda ya que en ellos podemos vizualizar los cambios hechos en el repositorio de nuestro archivo, como tambien poder compreder donde se encuentran ubicadas algunas ramas que no son visibles linealmente con nuestro git log.
 
 ¿Cuál es el resultado de la fusión de dos ramas juntos? ¿Por qué lo representamos en
 el diagrama de la forma en que hacemos?
 
+podemos ver los commits y ademas de poder utilizar las dos versiones con las que habiamos trabajado.
+
 ¿Cuáles son los pros y los contras de frente a la combinación automática de Git siempre haciendo fusiones
 ¿a mano?
+
+los pros es que podemos ver cuales son los errores que tiene el codigo y las contrariedades lo unico malo es que si la persona no conoce el codigo con el que se esta trabajando abra problema.
