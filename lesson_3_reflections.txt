@@ -1,0 +1,30 @@
+¿Cuándo desea utilizar un repositorio remoto en lugar de mantener todo su trabajo
+local?
+
+    Cuando quiero hacer publico mi trabajo y me pueda ser un proyecto de openSource, 
+    ademas es muy util para cuando estamos trabajando en equipo.
+
+¿Por qué puede querer tirar siempre los cambios manualmente en lugar de tener Git
+mantenerse automáticamente actualizados con su repositorio remoto?
+
+    Rellene su respuesta aquí
+
+Describir las diferencias entre las horquillas, clones y ramas. Cuando podrias
+utilizar uno en lugar de otro?
+
+    Rellene su respuesta aquí
+
+¿Cuál es el beneficio de tener una copia del último estado conocido de la distancia
+almacenado localmente?
+
+    Rellene su respuesta aquí
+
+¿Cómo te colaborar sin usar Git o GitHub? Lo que sería más fácil,
+y lo que sería más difícil?
+
+    Rellene su respuesta aquí
+
+¿Cuándo desee realizar cambios en una rama separada en lugar de directamente en
+¿dominar? ¿Qué beneficios tiene cada enfoque?
+
+    Rellene su respuesta aquí
