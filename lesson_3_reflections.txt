@@ -7,22 +7,22 @@ local?
 ¿Por qué puede querer tirar siempre los cambios manualmente en lugar de tener Git
 mantenerse automáticamente actualizados con su repositorio remoto?
 
-    Rellene su respuesta aquí
+    para tener en constante actualizacion mi repositorio.
 
 Describir las diferencias entre las horquillas, clones y ramas. Cuando podrias
 utilizar uno en lugar de otro?
 
-    Rellene su respuesta aquí
+    Clonar una archivo de github y lo tendremos en nuestro ordenador pero los cambios que se hagan y si los queremos subir con push se veran refeljados en su repositorio donde fue clonado, con fork lo clonamos en github y despues lo clonamos a nuestra computadora y despues de aver modificaco ciertos archivos con push lo veremos reflejado en github pero ahora en nuestro repositorio.
 
 ¿Cuál es el beneficio de tener una copia del último estado conocido de la distancia
 almacenado localmente?
 
-    Rellene su respuesta aquí
+    Mantenemos actualizado nuestro repositorio y con actualizaciones en nuestro trabajo.
 
 ¿Cómo te colaborar sin usar Git o GitHub? Lo que sería más fácil,
 y lo que sería más difícil?
 
-    Rellene su respuesta aquí
+    Se puede tener un mejor control ademas de tener la opinion de diferentes personas, por lo cual nos puden ayudar a tener un trabajo mas completos.
 
 ¿Cuándo desee realizar cambios en una rama separada en lugar de directamente en
 ¿dominar? ¿Qué beneficios tiene cada enfoque?
