@@ -27,4 +27,6 @@ y lo que sería más difícil?
 ¿Cuándo desee realizar cambios en una rama separada en lugar de directamente en
 ¿dominar? ¿Qué beneficios tiene cada enfoque?
 
-    Rellene su respuesta aquí
+    /*Que acaba de ver que el flujo de trabajo cuando se hacen cambios en una rama separada es más complicado que trabajan directamente en el maestro, especialmente cuando se necesita para mantenerse al día con los cambios realizados por otros. En lugar de simplemente tirar y empujar, es necesario extraer los cambios en su rama maestro local, fusionar el maestro local en su rama (diferente de aceite, en nuestro caso), y luego empujar a su rama en el mando a distancia antes de que finalmente la fusión de su sucursal en maestro, ya sea a nivel local o en GitHub.*/
+
+    Es un poco mas dificil pero ahi que tener en cuenta que para colaborar con otras personas y hacer retroalimentacion se es necesario saber utilizar los comandos y saber aplicarlos.
